@@ -1,0 +1,113 @@
+// General Philosophy
+
+Searls, Doc, 2012, The Intention Economy. Harvard Business Press. https://www.amazon.com/Intention-Economy-When-Customers-Charge/dp/1422158527
+- Harvard professor who has been writing about individual sovereignty and data ownership well before Satoshi. Excellent background.
+
+Lanier, Jaron, 2014, Who Owns the Future?. Simon and Schuster. https://www.amazon.com/Who-Owns-Future-Jaron-Lanier/dp/1451654979
+- More on individual sovereignty and data ownership.
+
+// Blockchain Classics
+
+https://bitcoin.org/bitcoin.pdf
+- Bitcoin seminal whitepaper
+
+https://github.com/ethereum/wiki/wiki/White-Paper
+- Ether seminal whitepaper
+
+// Blockchain Governance Classics
+
+https://github.com/ipfs/ipfs
+- "Inter-Planetary File System" - a decentralized protocol to replace https.
+
+https://ethereum.org/dao
+- "Decentralized Autonomous Organization" - helped launch the blockchain governance debate in 2016. Suggestions for governance using Ethereum blockchain.
+
+http://vitalik.ca/general/2017/12/17/voting.html
+- Ether founder Vitalik Buterin on ether and governance
+
+https://github.com/DavidJohnstonCEO/DecentralizedApplications/blob/master/README.md
+- DApps (Ethereum apps)
+
+// Blockchain Governance Articles
+
+https://medium.com/@RhysLindmark/macro-blockchain-1-the-end-of-aggregation-theory-ad199a0c03d8
+- Blockchain makes the governance revolution possible
+
+https://medium.com/@RhysLindmark/co-evolving-the-phase-shift-to-cryptocapitalism-by-founding-the-ethereum-commons-co-op-f4771e5f0c83
+- Contours of a cultural phase shift toward blockchain governance. Historical analysis, values, tactics.
+
+https://media.consensys.net/blockchains-are-for-humanitarians-too-3dd7c55bf547
+- Blockchain for social good
+
+https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98
+- Governance and network effects
+
+https://www.coindesk.com/code-is-law-not-quite-yet/
+- "Code is law" debate re smart contracts. Well-reasoned.
+
+https://medium.com/metacurrency-project/broken-assumptions-of-governance-63cc946ccc6c
+- Challenging broken assumptions of governance
+
+https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74
+- Fred Ehrsam on incentives, coordination mechanisms. Futarchy, Liquid Democracy, Quadratic Voting.
+
+https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca
+- Vlad Zamfir responds to Ehrsam. Incentives of users vs token hodlers at odds. "Blockchain governance is not an abstract design problem. It’s an applied social problem."
+
+http://merkle.com/papers/DAOdemocracyDraft.pdf
+- White Paper - toward a DAO Democracy
+
+https://medium.com/@reflexivity/governance-is-the-killer-app-of-the-vc-platform-10daef41c334
+https://medium.com/@reflexivity/decentralized-governance-part-1-defining-the-problem-6ea653f04f3f
+https://medium.com/@reflexivity/decentralized-governance-part-2-governance-and-ai-kitties-7e10f3bc3f66
+- This trio of articles details several benefits and pitfalls of governance models. Largely focused on VC.
+
+https://medium.com/metacurrency-project/the-future-of-governance-is-not-governments-9c894e17b1cd
+- Arthur Brock (of Ceptr.org) on future of governance and the next society & economy
+
+https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d
+- Alex Bulkin (of Coinfund) on consensus, collective phenomena, and collective intentionality
+
+https://medium.com/dfinity/the-dfinity-blockchain-nervous-system-a5dd1783288e
+- DFinity, Blockchain Nervous System (BNS), built to complement Ethereum
+
+https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98
+- Network effects, Governance-as-a-Service
+
+https://blog.ethereum.org/2014/08/21/introduction-futarchy/
+- Vitalek on Futarchy
+
+http://vitalik.ca/general/2017/12/17/voting.html
+- Vitalek on Voting
+
+https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-4-3855638b5f0e
+- Vlad Zamfir (Ether team) - Token ecosystem a system of cartels. Cooperative Game Theory. "Blockchain architecture is mechanism design for oligopolistic markets."
+
+https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66
+- Governance and utility players in a blockchain ecosystem. “'Keepers' as a catchall term for the different utility players in distributed networks that maintain stability and perform crucial jobs in the crypto-economic model."
+
+// Interesting Projects in Governance 
+
+reinventingorganizationswiki.com
+
+// Interesting Projects in Blockchain Governance 
+
+wiki.aragon.one
+ceptr.org
+tezos.com
+consensys.net
+reflexivity.network
+
+// Interesting Projects in Decentralized Protocols
+
+solid.mit.edu
+protocol.ai
+
+// Interesting Projects in Decentralized Apps
+
+stateofthedapps.com
+
+
+
+
+
